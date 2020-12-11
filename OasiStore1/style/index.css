@@ -1,0 +1,48 @@
+
+body {
+text-align: center;
+}
+
+h1{
+font - family : "Times New Roman";
+font-style: italic;
+color: #B22222;
+font-size : 90px;
+}
+
+p{
+font-size : 30px;
+}
+
+h1{
+height:100px;
+width:300px;
+font-size : 35px;
+}
+
+.hearder{
+background: gray;
+}
+
+a{
+font-size : 50px;
+color: black;
+}
+
+.menu li a:hover{
+color: white;
+}
+
+.menu li a{
+text-decoration: none;
+color: black;
+}
+
+.menu li{
+list-style-type: none;
+display: inline;
+}
+
+.footer{
+background: gray;
+}
